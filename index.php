@@ -470,7 +470,7 @@
 	<div id="ct_area" class="clearfix">
 
 
-		<div class="section mv" id="js-mv" style="background-image: url(/prospect/hak1k3000000gxks-img/main1.jpg);" data-bg-sp="/prospect/hak1k3000000gxks-img/mainsp.jpg">
+		<div class="section mv" id="js-mv" style="background-image: url(<?php echo redspice_get_custom_image_url( REDSPICE_MAIN_VISUAL_URL, '/prospect/hak1k3000000gxks-img/main1.jpg' ) ?>);" data-bg-sp="<?php echo redspice_get_custom_image_url( REDSPICE_MAIN_VISUAL_SP_URL, '/prospect/hak1k3000000gxks-img/mainsp.jpg' ) ?>">
 			<div class="section_inner">
 				<h1 class="copy">
 					<a href="/about/index.html">
@@ -817,25 +817,9 @@
 		<div class="section campus" id="campus">
 			<div class="section_inner">
 				<ul class="bg_list" id="js-bg_list">
-
-						<li style="background-image: url(/prospect/hak1k3000000gxks-img/image1.jpg);"></li>
-
-						<li style="background-image: url(/prospect/hak1k3000000gxks-img/image2.jpg);"></li>
-
-						<li style="background-image: url(/prospect/hak1k3000000gxks-img/image3.jpg);"></li>
-
-						<li style="background-image: url(/prospect/hak1k3000000gxks-img/image4.jpg);"></li>
-
-						<li style="background-image: url(/prospect/hak1k3000000gxks-img/image5.jpg);"></li>
-
-						<li style="background-image: url(/prospect/hak1k3000000gxks-img/image6.jpg);"></li>
-
-						<li style="background-image: url(/prospect/hak1k3000000gxks-img/image7.jpg);"></li>
-
-						<li style="background-image: url(/prospect/hak1k3000000gxks-img/image8.jpg);"></li>
-
-						<li style="background-image: url(/prospect/hak1k3000000gxks-img/image9.jpg);"></li>
-
+<?php foreach(REDSPICE_CAMPUS_LIFE_VISUAL_TYPE_LIST as $value): ?>
+						<li style="background-image: url(<?php echo redspice_get_custom_image_url(REDSPICE_CAMPUS_LIFE_VISUAL_URL . '_' . $value, "/prospect/hak1k3000000gxks-img/image{$value}.jpg") ?>);"></li>
+<?php endforeach ?>
 				</ul>
 				<div class="container">
 					<h2 class="section_hdg"><span lang="en">CAMPUS</span><span lang="ja">キャンパスライフ</span></h2>
