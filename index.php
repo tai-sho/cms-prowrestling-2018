@@ -1,9 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-
-
-
-
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -18,11 +14,17 @@
 <meta property="og:site_name" content="津田塾大学" />
 <meta property="og:title" content="受験生の方へ" />
 <meta property="og:description" content="津田塾大学の受験生向け特設ページです。津田塾大学でなりたい自分を発見しよう！" />
-
+<?php /*  ADD 20180117 ogawa */ ?>
+<meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
+<link rel="dns-prefetch" href="//:sp.redbox.ne.jp">
+<link rel="preconnect" href="//:sp.redbox.ne.jp">
+<link rel="preconnect" href="//:sp.redbox.ne.jp" crossorigin>
+<?php /*  ADD 20180117 ogawa */ ?>
 <link rel="stylesheet" type="text/css" href="/css/vtngq900000002qh.css" media="all and (min-width: 641px)" />
 <link rel="stylesheet" type="text/css" href="/css/vtngq900000002qc.css" media="screen and (min-width: 0px) and (max-width: 640px)" />
 <link rel="stylesheet" type="text/css" href="/css/vtngq900000002q7.css" media="print" />
 <link rel="stylesheet" type="text/css" href="/css/prospect.css" />
+
 <link rel="shortcut icon" href="/images/favicon.ico" />
 <script type="text/javascript" src="/js/vtngq900000002r1.js"></script>
 <script type="text/javascript" src="/js/vtngq900000002qw.js"></script>
@@ -36,7 +38,7 @@
 	var $1_12_4 = $.noConflict();
 </script>
 <script type="text/javascript" src="/js/prospect.js"></script>
-
+<?php /*
 <!-- /head 前 -->
 <script type="text/javascript">
 
@@ -51,6 +53,8 @@
   })();
 
 </script>
+
+<?php */ ?>
 </head>
 
 <body class="guide prospect">
@@ -81,7 +85,7 @@
 			</div>
 
 			<div id="hd_search" class="accordion clearfix">
-			<form action="http://www.google.com/cse">
+			<form action="//www.google.com/cse">
 				<input type="hidden" name="cx" value="003838450721352292964:a-r42z4vaye" />
 				<input type="hidden" name="ie" value="UTF-8" />
 				<p class="search_area"><input value="Search" type="text" name="q" class="search_area focus" size="31" /></p>
@@ -139,7 +143,7 @@
 					</ul>
 
 
-					<form action="http://www.google.com/cse">
+					<form action="//www.google.com/cse">
 						<div class="search_box">
 							<input type="hidden" name="cx" value="003838450721352292964:a-r42z4vaye" />
 							<input type="hidden" name="ie" value="UTF-8" />
@@ -1104,7 +1108,7 @@
 	</div>
 
 		<div class="accordion clearfix" id="ft_search">
-			<form action="http://www.google.com/cse">
+			<form action="//www.google.com/cse">
 				<input type="hidden" name="cx" value="003838450721352292964:a-r42z4vaye" />
 				<input type="hidden" name="ie" value="UTF-8" />
 				<p class="search_area"><input value="Search" type="text" name="q" class="search_area focus" size="31" /></p>
@@ -1155,4 +1159,3 @@
 
 </body>
 </html>
-
