@@ -1,12 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<!DOCTYPE html>
+<html lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="Content-Style-Type" content="text/css" />
-<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta charset="UTF-8">
 <title>受験生の方へ | 津田塾大学</title>
-<meta name="description" content="津田塾大学の受験生向け特設ページです。津田塾大学でなりたい自分を発見しよう！" /><meta name="keywords" content="津田塾大学,女子大学,受験,受験生,入試情報,入試,オープンキャンパス,イベント" />
+<meta name="description" content="津田塾大学の受験生向け特設ページです。津田塾大学でなりたい自分を発見しよう！" />
+<meta name="keywords" content="津田塾大学,女子大学,受験,受験生,入試情報,入試,オープンキャンパス,イベント" />
 <meta name="viewport" content="width=device-width,user-scalable=yes" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.tsuda.ac.jp/prospect/jukensei.html" />
@@ -20,24 +18,24 @@
 <link rel="preconnect" href="//:sp.redbox.ne.jp">
 <link rel="preconnect" href="//:sp.redbox.ne.jp" crossorigin>
 <?php /*  ADD 20180117 ogawa */ ?>
-<link rel="stylesheet" type="text/css" href="/css/vtngq900000002qh.css" media="all and (min-width: 641px)" />
-<link rel="stylesheet" type="text/css" href="/css/vtngq900000002qc.css" media="screen and (min-width: 0px) and (max-width: 640px)" />
-<link rel="stylesheet" type="text/css" href="/css/vtngq900000002q7.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/css/prospect.css" />
+<link rel="stylesheet" href="/css/vtngq900000002qh.css" media="all and (min-width: 641px)" />
+<link rel="stylesheet" href="/css/vtngq900000002qc.css" media="screen and (min-width: 0px) and (max-width: 640px)" />
+<link rel="stylesheet" href="/css/vtngq900000002q7.css" media="print" />
+<link rel="stylesheet" href="/css/prospect.css" />
 
 <link rel="shortcut icon" href="/images/favicon.ico" />
-<script type="text/javascript" src="/js/vtngq900000002r1.js"></script>
-<script type="text/javascript" src="/js/vtngq900000002qw.js"></script>
-<script type="text/javascript" src="/js/vtngq900000002qr.js"></script>
-<script type="text/javascript" src="/js/vtngq900000002qm.js"></script>
-<script type="text/javascript" src="/js/vtngq900000002rb.js"></script>
-<script type="text/javascript" src="/js/vtngq900000002r6.js"></script>
-<script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
-<script type="text/javascript" src="/js/vtngq900000002qw.js"></script>
-<script type="text/javascript">
+<script src="/js/vtngq900000002r1.js"></script>
+<script src="/js/vtngq900000002qw.js"></script>
+<script src="/js/vtngq900000002qr.js"></script>
+<script src="/js/vtngq900000002qm.js"></script>
+<script src="/js/vtngq900000002rb.js"></script>
+<script src="/js/vtngq900000002r6.js"></script>
+<script src="/js/jquery-1.12.4.min.js"></script>
+<script src="/js/vtngq900000002qw.js"></script>
+<script >
 	var $1_12_4 = $.noConflict();
 </script>
-<script type="text/javascript" src="/js/prospect.js"></script>
+<script src="/js/prospect.js"></script>
 <?php /*
 <!-- /head 前 -->
 <script type="text/javascript">
@@ -1154,8 +1152,6 @@
 		</div>
 	</div><!-- / .copy_box -->
 </div><!-- / #ft_sp -->
-
 <!--/body 前 -->
-
 </body>
 </html>
