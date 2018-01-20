@@ -584,45 +584,45 @@ var $1_12_4 = $.noConflict();
 <dl>
 <dt>2017.11.15<br />
 <img src="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
-</dt>
 
-<dd><a href="/news/info/2017/JapanChampionship.html">本学大学院生が日本身体障がい者水泳選手権大会に出場します<img src="/images/ico_new.gif" width="30" height="13" alt="NEW" /></a></dd>
+
+<dd><a href="/news/info/2017/JapanChampionship.html">本学大学院生が日本身体障がい者水泳選手権大会に出場します<img src="/images/ico_new.gif" width="30" height="13" alt="NEW" /></a>
 
 </dl>
 
 <dl>
 <dt>2017.11.08<br />
 <img src="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
-</dt>
 
-<dd><a href="/employment.html">【教員採用】国際関係学科専任教員を募集しています／Call for Applications for Full-Time Faculty Member at Department of International and Cultural Studies</a></dd>
+
+<dd><a href="/employment.html">【教員採用】国際関係学科専任教員を募集しています／Call for Applications for Full-Time Faculty Member at Department of International and Cultural Studies</a>
 
 </dl>
 
 <dl>
 <dt>2017.11.02<br />
 <img src="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
-</dt>
 
-<dd><a href="/news/info/2017/1102.html">本学卒業生がAward for Lifetime Service to the Association 第一号を受賞</a></dd>
+
+<dd><a href="/news/info/2017/1102.html">本学卒業生がAward for Lifetime Service to the Association 第一号を受賞</a>
 
 </dl>
 
 <dl>
 <dt>2017.11.01<br />
 <img src="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
-</dt>
 
-<dd><a href="/open-college/essay/20171008.html">2017年 第18回 エッセー・コンテスト結果発表</a></dd>
+
+<dd><a href="/open-college/essay/20171008.html">2017年 第18回 エッセー・コンテスト結果発表</a>
 
 </dl>
 
 <dl>
 <dt>2017.10.31<br />
 <img src="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
-</dt>
 
-<dd><a href="/news/info/2017/171031.html">朝日新聞に5段広告を掲載しました</a></dd>
+
+<dd><a href="/news/info/2017/171031.html">朝日新聞に5段広告を掲載しました</a>
 
 </dl>
 
