@@ -58,11 +58,11 @@ var $1_12_4 = $.noConflict();
 <div id="hd_sp" class="clearfix">
 <ul class="other_link_sp clearfix">
 
-<li class="other5"><a href="http://www.tsuda.ac.jp/en/">English</a></li>
+<li class="other5"><a href="http://www.tsuda.ac.jp/en/">English</a>
 
-<li class="other4"><a href="/contact.html">お問合わせ</a></li>
+<li class="other4"><a href="/contact.html">お問合わせ</a>
 
-<li class="other3"><a href="/about/access/index.html">大学へのアクセス</a></li>
+<li class="other3"><a href="/about/access/index.html">大学へのアクセス</a>
 
 </ul>
 <div class="hd_ct clearfix">
@@ -88,21 +88,21 @@ var $1_12_4 = $.noConflict();
 <div id="hd_menu" class="accordion clearfix">
 <ul>
 
-<li><a href="/about/index.html">大学案内</a></li>
+<li><a href="/about/index.html">大学案内</a>
 
-<li><a href="/education/index.html">教育の特色</a></li>
+<li><a href="/education/index.html">教育の特色</a>
 
-<li><a href="/faculty/index.html">学部・学科</a></li>
+<li><a href="/faculty/index.html">学部・学科</a>
 
-<li><a href="/admission/index.html">入試・入学情報</a></li>
+<li><a href="/admission/index.html">入試・入学情報</a>
 
-<li><a href="/campus-life/index.html">キャンパスライフ</a></li>
+<li><a href="/campus-life/index.html">キャンパスライフ</a>
 
-<li><a href="/career/index.html">進路・就職</a></li>
+<li><a href="/career/index.html">進路・就職</a>
 
-<li><a href="/grad-school/index.html">大学院・研究所</a></li>
+<li><a href="/grad-school/index.html">大学院・研究所</a>
 
-<li><a href="/open-college/index.html">開かれた大学</a></li>
+<li><a href="/open-college/index.html">開かれた大学</a>
 
 </ul>
 </div><!-- / .ft_menu -->
@@ -115,7 +115,7 @@ var $1_12_4 = $.noConflict();
 
 <div class="hd_nav_link clearfix">
 <ul>
-<li><a href="/staff/index.html">教職員の方へ</a></li><li><a href="/public/index.html">企業・一般の方へ</a></li><li><a href="/alumnae/index.html">卒業生の方へ</a></li><li><a href="/parents/index.html">在学生保護者の方へ</a></li><li><a href="/students/index.html">在学生の方へ</a></li><li><a href="/prospect/jukensei.html">受験生の方へ</a></li>
+<li><a href="/staff/index.html">教職員の方へ</a><li><a href="/public/index.html">企業・一般の方へ</a><li><a href="/alumnae/index.html">卒業生の方へ</a><li><a href="/parents/index.html">在学生保護者の方へ</a><li><a href="/students/index.html">在学生の方へ</a><li><a href="/prospect/jukensei.html">受験生の方へ</a>
 </ul>
 </div>
 
@@ -126,10 +126,10 @@ var $1_12_4 = $.noConflict();
 <div class="hd_other">
 <div class="other_box clearfix">
 <ul id="font_change" class="font_size clearfix">
-<li class="size_text"><img src="/images/img_txt_size.gif" width="69" height="24" alt="文字サイズ" /></li>
-<li id="font_s"><a href="javascript:void(0);"><img src="/images/txt_size1_ot.gif" width="25" height="24" alt="小" /></a></li>
-<li id="font_m"><a href="javascript:void(0);"><img src="/images/txt_size2_ot.gif" width="25" height="24" alt="中" /></a></li>
-<li id="font_l"><a href="javascript:void(0);"><img src="/images/txt_size3_ot.gif" width="25" height="24" alt="大" /></a></li>
+<li class="size_text"><img src="/images/img_txt_size.gif" width="69" height="24" alt="文字サイズ" />
+<li id="font_s"><a href="javascript:void(0);"><img src="/images/txt_size1_ot.gif" width="25" height="24" alt="小" /></a>
+<li id="font_m"><a href="javascript:void(0);"><img src="/images/txt_size2_ot.gif" width="25" height="24" alt="中" /></a>
+<li id="font_l"><a href="javascript:void(0);"><img src="/images/txt_size3_ot.gif" width="25" height="24" alt="大" /></a>
 </ul>
 
 
@@ -146,13 +146,13 @@ var $1_12_4 = $.noConflict();
 </div>
 
 <ul class="other_link clearfix">
-<li class="other1"><a href="/index.html">HOME</a></li>
+<li class="other1"><a href="/index.html">HOME</a>
 
-<li class="other2"><a href="/sitemap.html">サイトマップ</a></li>
+<li class="other2"><a href="/sitemap.html">サイトマップ</a>
 
-<li class="other3"><a href="/about/access/index.html">大学へのアクセス</a></li>
+<li class="other3"><a href="/about/access/index.html">大学へのアクセス</a>
 
-<li class="other4"><a href="/contact.html">お問合わせ</a></li>
+<li class="other4"><a href="/contact.html">お問合わせ</a>
 
 </ul>
 </div>
@@ -166,290 +166,290 @@ var $1_12_4 = $.noConflict();
 
 <div class="sub clearfix">
 <ul class="large_link clearfix">
-<li><a href="/about/tsuda/index.html">津田塾大学</a></li>
+<li><a href="/about/tsuda/index.html">津田塾大学</a>
 
-<li><a href="/about/history/index.html">津田塾の歴史</a></li>
+<li><a href="/about/history/index.html">津田塾の歴史</a>
 
-<li><a href="/about/outline/index.html">大学概要</a></li>
+<li><a href="/about/outline/index.html">大学概要</a>
 
-<li><a href="/about/disclosure/index.html">情報公表</a></li>
+<li><a href="/about/disclosure/index.html">情報公表</a>
 
-<li><a href="/about/access/index.html">交通アクセス</a></li>
+<li><a href="/about/access/index.html">交通アクセス</a>
 
-<li><a href="/about/campus-guide.html">キャンパスガイド（施設紹介）</a></li>
+<li><a href="/about/campus-guide.html">キャンパスガイド（施設紹介）</a>
 
-<li><a href="/about/photo/index.html">フォトアルバム</a></li>
+<li><a href="/about/photo/index.html">フォトアルバム</a>
 
-<li><a href="/about/contribution/index.html">津田塾大学への寄付について</a></li>
+<li><a href="/about/contribution/index.html">津田塾大学への寄付について</a>
 
-<li><a href="/about/sns/index.html">SNS公式アカウント</a></li>
+<li><a href="/about/sns/index.html">SNS公式アカウント</a>
 </ul><ul class="small_link clearfix">
-<li class="arw_small"><a href="/about/media/index.html">メディア掲載情報</a></li>
+<li class="arw_small"><a href="/about/media/index.html">メディア掲載情報</a>
 
-<li class="arw_small"><a href="/about/tsuda-today/index.html">広報誌TsudaToday</a></li>
+<li class="arw_small"><a href="/about/tsuda-today/index.html">広報誌TsudaToday</a>
 
-<li class="arw_small"><a href="/about/president/index.html">津田塾大学 学長室</a></li>
+<li class="arw_small"><a href="/about/president/index.html">津田塾大学 学長室</a>
 
-<li class="arw_small"><a href="/about/alumnae/index.html">津田塾大学同窓会</a></li>
+<li class="arw_small"><a href="/about/alumnae/index.html">津田塾大学同窓会</a>
 
-<li class="arw_small"><a href="http://pg.tsuda.ac.jp/" target="_blank">ウェブマガジン plum garden<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li class="arw_small"><a href="http://pg.tsuda.ac.jp/" target="_blank">ウェブマガジン plum garden<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 </ul>
 </div>
 
-</li>
+
 
 
 <li id="gnav2"><a href="/education/index.html">教育の特色</a>
 
 <div class="sub clearfix">
 <ul class="large_link clearfix">
-<li><a href="/education/english/index.html">英語教育</a></li>
+<li><a href="/education/english/index.html">英語教育</a>
 
-<li><a href="/education/second/index.html">第二外国語</a></li>
+<li><a href="/education/second/index.html">第二外国語</a>
 
-<li><a href="/education/small/index.html">少人数教育</a></li>
+<li><a href="/education/small/index.html">少人数教育</a>
 
-<li><a href="/education/cie/index.html">留学(国際センター)</a></li>
+<li><a href="/education/cie/index.html">留学(国際センター)</a>
 
-<li><a href="/education/teacher/index.html">教職課程</a></li>
+<li><a href="/education/teacher/index.html">教職課程</a>
 
-<li><a href="/education/credit-transfer/index.html">単位互換</a></li>
+<li><a href="/education/credit-transfer/index.html">単位互換</a>
 
-<li><a href="http://lib.tsuda.ac.jp/?contents_id=JBlMmxEsPzeN" target="_blank">図書館・AVライブラリー<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li><a href="http://lib.tsuda.ac.jp/?contents_id=JBlMmxEsPzeN" target="_blank">図書館・AVライブラリー<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://offcampus.tsuda.ac.jp/" target="_blank">学外学修センター<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li><a href="http://offcampus.tsuda.ac.jp/" target="_blank">学外学修センター<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 </ul><ul class="small_link clearfix">
-<li class="arw_small"><a href="/education/common/index.html">共通科目</a></li>
+<li class="arw_small"><a href="/education/common/index.html">共通科目</a>
 
-<li class="arw_small"><a href="/education/computer/index.html">コンピュータ・リテラシー</a></li>
+<li class="arw_small"><a href="/education/computer/index.html">コンピュータ・リテラシー</a>
 
-<li class="arw_small"><a href="/education/health/index.html">健康余暇科学科目</a></li>
+<li class="arw_small"><a href="/education/health/index.html">健康余暇科学科目</a>
 
-<li class="arw_small"><a href="/education/ja-teacher/index.html">日本語教員養成課程</a></li>
+<li class="arw_small"><a href="/education/ja-teacher/index.html">日本語教員養成課程</a>
 
-<li class="arw_small"><a href="/education/euij/index.html">EU Institute in Japan(EUIJ)</a></li>
+<li class="arw_small"><a href="/education/euij/index.html">EU Institute in Japan(EUIJ)</a>
 
-<li class="arw_small"><a href="/education/eusi/index.html">EU Studies Institute in Tokyo (EUSI)</a></li>
+<li class="arw_small"><a href="/education/eusi/index.html">EU Studies Institute in Tokyo (EUSI)</a>
 
-<li class="arw_small"><a href="/education/cwr/index.html">女性研究者支援センター</a></li>
+<li class="arw_small"><a href="/education/cwr/index.html">女性研究者支援センター</a>
 
-<li class="arw_small"><a href="http://twc.tsuda.ac.jp/" target="_blank">ライティングセンター<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li class="arw_small"><a href="http://twc.tsuda.ac.jp/" target="_blank">ライティングセンター<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li class="arw_small"><a href="http://edu.tsuda.ac.jp/cmccl/" target="_blank">ソーシャル・メディア・センター<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li class="arw_small"><a href="http://edu.tsuda.ac.jp/cmccl/" target="_blank">ソーシャル・メディア・センター<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li class="arw_small"><a href="/education/support/index.html">競争的資金採択プログラム</a></li>
+<li class="arw_small"><a href="/education/support/index.html">競争的資金採択プログラム</a>
 
-<li class="arw_small"><a href="/education/unai.html">国連アカデミック・インパクト</a></li>
+<li class="arw_small"><a href="/education/unai.html">国連アカデミック・インパクト</a>
 </ul>
 </div>
 
-</li>
+
 
 
 <li id="gnav3"><a href="/faculty/index.html">学科・コース</a>
 
 <div class="sub clearfix">
 <ul class="large_link clearfix">
-<li><a href="/faculty/cu-policy/index.html">教育課程編成方針（カリキュラム・ポリシー）</a></li>
+<li><a href="/faculty/cu-policy/index.html">教育課程編成方針（カリキュラム・ポリシー）</a>
 
-<li><a href="/faculty/dept-eng/index.html">英文学科</a></li>
+<li><a href="/faculty/dept-eng/index.html">英文学科</a>
 
-<li><a href="/faculty/dept-inti/index.html">国際関係学科</a></li>
+<li><a href="/faculty/dept-inti/index.html">国際関係学科</a>
 
-<li><a href="/faculty/dept-math/index.html">数学科</a></li>
+<li><a href="/faculty/dept-math/index.html">数学科</a>
 
-<li><a href="/faculty/dept-cs/index.html">情報科学科</a></li>
+<li><a href="/faculty/dept-cs/index.html">情報科学科</a>
 
-<li><a href="/faculty/dept-ps/index.html">総合政策学科（2017年4月新設）</a></li>
+<li><a href="/faculty/dept-ps/index.html">総合政策学科（2017年4月新設）</a>
 
-<li><a href="/faculty/dept-mi/index.html">多文化・国際協力コース</a></li>
+<li><a href="/faculty/dept-mi/index.html">多文化・国際協力コース</a>
 
-<li><a href="/faculty/dept-ms/index.html">メディアスタディーズ・コース</a></li>
+<li><a href="/faculty/dept-ms/index.html">メディアスタディーズ・コース</a>
 
-<li><a href="/faculty/dip-policy/index.html">学位授与方針（ディプロマ・ポリシー）</a></li>
+<li><a href="/faculty/dip-policy/index.html">学位授与方針（ディプロマ・ポリシー）</a>
 
-<li><a href="/faculty/work/index.html">教職員著作・制作物</a></li>
+<li><a href="/faculty/work/index.html">教職員著作・制作物</a>
 </ul><ul class="small_link clearfix">
-<li class="arw_small"><a href="https://tc-portal.tsuda.ac.jp/c4wsyl/SYLD200Init.do" target="_blank">シラバス<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li class="arw_small"><a href="https://tc-portal.tsuda.ac.jp/c4wsyl/SYLD200Init.do" target="_blank">シラバス<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li class="arw_small"><a href="/faculty/grade/index.html">学習の評価について</a></li>
+<li class="arw_small"><a href="/faculty/grade/index.html">学習の評価について</a>
 
-<li class="arw_small"><a href="/faculty/office_hour.html">オフィスアワーについて</a></li>
+<li class="arw_small"><a href="/faculty/office_hour.html">オフィスアワーについて</a>
 </ul>
 </div>
 
-</li>
+
 
 
 <li id="gnav4"><a href="/admission/index.html">入試・入学情報</a>
 
 <div class="sub clearfix">
 <ul class="large_link clearfix">
-<li><a href="/admission/ad-policy/faculty/index.html">学部の入学者受入方針（アドミッション・ポリシー）</a></li>
+<li><a href="/admission/ad-policy/faculty/index.html">学部の入学者受入方針（アドミッション・ポリシー）</a>
 
-<li><a href="/admission/faculty/index.html">入試情報（学部）</a></li>
+<li><a href="/admission/faculty/index.html">入試情報（学部）</a>
 
-<li><a href="/admission/fc-data/index.html">入学試験データ（学部）</a></li>
+<li><a href="/admission/fc-data/index.html">入学試験データ（学部）</a>
 
-<li><a href="/admission/ad-policy/grad-school/index.html">大学院の入学者受入方針（アドミッション・ポリシー）</a></li>
+<li><a href="/admission/ad-policy/grad-school/index.html">大学院の入学者受入方針（アドミッション・ポリシー）</a>
 
-<li><a href="/admission/grad-school/index.html">入試情報（大学院）</a></li>
+<li><a href="/admission/grad-school/index.html">入試情報（大学院）</a>
 
-<li><a href="/admission/gs-data/index.html">入学試験データ（大学院）</a></li>
+<li><a href="/admission/gs-data/index.html">入学試験データ（大学院）</a>
 
-<li><a href="/admission/exam_fee/index.html">入学検定料</a></li>
+<li><a href="/admission/exam_fee/index.html">入学検定料</a>
 
-<li><a href="/campus-life/scholarship/tsudaspiritscholarship.html">＜津田スピリット＞奨学金（給付・予約型）</a></li>
+<li><a href="/campus-life/scholarship/tsudaspiritscholarship.html">＜津田スピリット＞奨学金（給付・予約型）</a>
 
-<li><a href="/admission/request/index.html">資料・願書請求</a></li>
+<li><a href="/admission/request/index.html">資料・願書請求</a>
 
-<li><a href="/admission/demonstration.html">授業体験day@津田塾</a></li>
+<li><a href="/admission/demonstration.html">授業体験day@津田塾</a>
 
-<li><a href="/admission/open-campus/index.html">オープンキャンパス</a></li>
+<li><a href="/admission/open-campus/index.html">オープンキャンパス</a>
 </ul><ul class="small_link clearfix">
-<li class="arw_small"><a href="/admission/consultation/index.html">進学相談会</a></li>
+<li class="arw_small"><a href="/admission/consultation/index.html">進学相談会</a>
 
-<li class="arw_small"><a href="/admission/fc-credit/index.html">既修得単位の認定について</a></li>
+<li class="arw_small"><a href="/admission/fc-credit/index.html">既修得単位の認定について</a>
 
-<li class="arw_small"><a href="/admission/gs-support/index.html">大学院修学休業制度</a></li>
+<li class="arw_small"><a href="/admission/gs-support/index.html">大学院修学休業制度</a>
 
-<li class="arw_small"><a href="/admission/gs-benefit/index.html">教育訓練給付制度</a></li>
+<li class="arw_small"><a href="/admission/gs-benefit/index.html">教育訓練給付制度</a>
 
-<li class="arw_small"><a href="/admission/contact/index.html">入試問い合わせ先</a></li>
+<li class="arw_small"><a href="/admission/contact/index.html">入試問い合わせ先</a>
 </ul>
 </div>
 
-</li>
+
 
 
 <li id="gnav5"><a href="/campus-life/index.html">キャンパスライフ</a>
 
 <div class="sub clearfix">
 <ul class="large_link clearfix">
-<li><a href="/campus-life/calendar/index.html">学年暦</a></li>
+<li><a href="/campus-life/calendar/index.html">学年暦</a>
 
-<li><a href="/campus-life/tuition/index.html">入学金・学費</a></li>
+<li><a href="/campus-life/tuition/index.html">入学金・学費</a>
 
-<li><a href="/campus-life/scholarship/index.html">奨学金</a></li>
+<li><a href="/campus-life/scholarship/index.html">奨学金</a>
 
-<li><a href="/campus-life/support/index.html">学生生活サポート</a></li>
+<li><a href="/campus-life/support/index.html">学生生活サポート</a>
 
-<li><a href="/campus-life/certificate/index.html">各種証明書</a></li>
+<li><a href="/campus-life/certificate/index.html">各種証明書</a>
 
-<li><a href="/campus-life/system/index.html">各種システム</a></li>
+<li><a href="/campus-life/system/index.html">各種システム</a>
 </ul><ul class="small_link clearfix">
-<li class="arw_small"><a href="/campus-life/circle/index.html">サークル紹介</a></li>
+<li class="arw_small"><a href="/campus-life/circle/index.html">サークル紹介</a>
 
-<li class="arw_small"><a href="/campus-life/commuterpass.html">通学定期券について</a></li>
+<li class="arw_small"><a href="/campus-life/commuterpass.html">通学定期券について</a>
 
-<li class="arw_small"><a href="/campus-life/caution/index.html">課外活動に関する注意とお願い</a></li>
+<li class="arw_small"><a href="/campus-life/caution/index.html">課外活動に関する注意とお願い</a>
 
-<li class="arw_small"><a href="/campus-life/dormitory.html">学生寮</a></li>
+<li class="arw_small"><a href="/campus-life/dormitory.html">学生寮</a>
 
-<li class="arw_small"><a href="/campus-life/shop/index.html">食堂・売店</a></li>
+<li class="arw_small"><a href="/campus-life/shop/index.html">食堂・売店</a>
 
-<li class="arw_small"><a href="/campus-life/worship/index.html">木曜礼拝</a></li>
+<li class="arw_small"><a href="/campus-life/worship/index.html">木曜礼拝</a>
 </ul>
 </div>
 
-</li>
+
 
 
 <li id="gnav6"><a href="/career/index.html">進路・就職</a>
 
 <div class="sub clearfix">
 <ul class="large_link clearfix">
-<li><a href="/career/feature/index.html">進路の特徴</a></li>
+<li><a href="/career/feature/index.html">進路の特徴</a>
 
-<li><a href="/career/support/index.html">進路サポート体制</a></li>
+<li><a href="/career/support/index.html">進路サポート体制</a>
 
-<li><a href="/career/employment/index.html">主な就職先</a></li>
+<li><a href="/career/employment/index.html">主な就職先</a>
 
-<li><a href="/career/grad-school/index.html">主な進学先</a></li>
+<li><a href="/career/grad-school/index.html">主な進学先</a>
 
-<li><a href="/career/recruit/index.html">求人について</a></li>
+<li><a href="/career/recruit/index.html">求人について</a>
 </ul>
 </div>
 
-</li>
+
 
 
 <li id="gnav7"><a href="/grad-school/index.html">大学院・研究所</a>
 
 <div class="sub clearfix">
 <ul class="large_link clearfix">
-<li><a href="/grad-school/cu-policy/index.html">大学院の教育課程編成方針（カリキュラム・ポリシー）</a></li>
+<li><a href="/grad-school/cu-policy/index.html">大学院の教育課程編成方針（カリキュラム・ポリシー）</a>
 
-<li><a href="/grad-school/esc/index.html">文学研究科</a></li>
+<li><a href="/grad-school/esc/index.html">文学研究科</a>
 
-<li><a href="/grad-school/inti/index.html">国際関係学研究科</a></li>
+<li><a href="/grad-school/inti/index.html">国際関係学研究科</a>
 
-<li><a href="/grad-school/sci/index.html">理学研究科</a></li>
+<li><a href="/grad-school/sci/index.html">理学研究科</a>
 
-<li><a href="/grad-school/ist-lang/index.html">言語文化研究所</a></li>
+<li><a href="/grad-school/ist-lang/index.html">言語文化研究所</a>
 
-<li><a href="/grad-school/ist-intil/index.html">国際関係研究所</a></li>
+<li><a href="/grad-school/ist-intil/index.html">国際関係研究所</a>
 
-<li><a href="/grad-school/ist-math/index.html">数学・計算機科学研究所</a></li>
+<li><a href="/grad-school/ist-math/index.html">数学・計算機科学研究所</a>
 
-<li><a href="/grad-school/ist-policy/index.html"> 総合政策研究所</a></li>
+<li><a href="/grad-school/ist-policy/index.html"> 総合政策研究所</a>
 
-<li><a href="/grad-school/dip-policy/index.html">大学院の学位授与方針（ディプロマ・ポリシー）</a></li>
+<li><a href="/grad-school/dip-policy/index.html">大学院の学位授与方針（ディプロマ・ポリシー）</a>
 </ul><ul class="small_link clearfix">
-<li class="arw_small"><a href="/grad-school/degree/index.html">学位の授与について</a></li>
+<li class="arw_small"><a href="/grad-school/degree/index.html">学位の授与について</a>
 
-<li class="arw_small"><a href="/grad-school/completion/index.html">修了の要件について</a></li>
+<li class="arw_small"><a href="/grad-school/completion/index.html">修了の要件について</a>
 
-<li class="arw_small"><a href="/grad-school/grade/index.html">成績の評価について</a></li>
+<li class="arw_small"><a href="/grad-school/grade/index.html">成績の評価について</a>
 
-<li class="arw_small"><a href="/grad-school/course.html">修了(終了)者 進路状況</a></li>
+<li class="arw_small"><a href="/grad-school/course.html">修了(終了)者 進路状況</a>
 
-<li class="arw_small"><a href="/grad-school/credit-transfer/index.html" target="_blank">他大学院との単位互換<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li class="arw_small"><a href="/grad-school/credit-transfer/index.html" target="_blank">他大学院との単位互換<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 </ul>
 </div>
 
-</li>
+
 
 
 <li id="gnav8"><a href="/open-college/index.html">開かれた大学</a>
 
 <div class="sub clearfix">
 <ul class="large_link clearfix">
-<li><a href="/open-college/synthesis/index.html">公開講座「総合」</a></li>
+<li><a href="/open-college/synthesis/index.html">公開講座「総合」</a>
 
-<li><a href="/open-college/woman/index.html">公開講座「女性学」</a></li>
+<li><a href="/open-college/woman/index.html">公開講座「女性学」</a>
 
-<li><a href="/open-college/policy-studies/index.html">公開講座 「社会実践の諸相」</a></li>
+<li><a href="/open-college/policy-studies/index.html">公開講座 「社会実践の諸相」</a>
 
-<li><a href="/open-college/media/index.html">メディアワークショップ講演会</a></li>
+<li><a href="/open-college/media/index.html">メディアワークショップ講演会</a>
 
-<li><a href="/open-college/wellness/index.html">ウェルネス・センター公開講座</a></li>
+<li><a href="/open-college/wellness/index.html">ウェルネス・センター公開講座</a>
 
-<li><a href="/open-college/essay/index.html">2017年度 第18回 高校生エッセー・コンテスト</a></li>
+<li><a href="/open-college/essay/index.html">2017年度 第18回 高校生エッセー・コンテスト</a>
 
-<li><a href="/open-college/umeko-award/index.html">津田梅子賞</a></li>
+<li><a href="/open-college/umeko-award/index.html">津田梅子賞</a>
 
-<li><a href="http://tou.tsuda.ac.jp/" target="_blank">津田塾大学オープンユニバーシティ<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li><a href="http://tou.tsuda.ac.jp/" target="_blank">津田塾大学オープンユニバーシティ<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://koryukan.tsuda.ac.jp/?contents_id=jRbNU7afTtY9" target="_blank">津田梅子記念交流館<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li><a href="http://koryukan.tsuda.ac.jp/?contents_id=jRbNU7afTtY9" target="_blank">津田梅子記念交流館<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://twc.tsuda.ac.jp/event/index.html" target="_blank">ライティングセンター講演会<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li><a href="http://twc.tsuda.ac.jp/event/index.html" target="_blank">ライティングセンター講演会<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://lib.tsuda.ac.jp/DigitalArchive/exhibition.html?contents_id=YybOk3dWJJjv" target="_blank">津田梅子資料室企画展<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li><a href="http://lib.tsuda.ac.jp/DigitalArchive/exhibition.html?contents_id=YybOk3dWJJjv" target="_blank">津田梅子資料室企画展<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 </ul><ul class="small_link clearfix">
-<li class="arw_small"><a href="/open-college/afghanistan/index.html" target="_blank">アフガニスタン女性教員支援<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li class="arw_small"><a href="/open-college/afghanistan/index.html" target="_blank">アフガニスタン女性教員支援<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li class="arw_small"><a href="http://tac.lekumo.biz/tac/" target="_blank">TAC公開プログラム（TACニュース）<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li class="arw_small"><a href="http://tac.lekumo.biz/tac/" target="_blank">TAC公開プログラム（TACニュース）<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li class="arw_small"><a href="/open-college/account/index.html">科目等履修生・聴講生の受付</a></li>
+<li class="arw_small"><a href="/open-college/account/index.html">科目等履修生・聴講生の受付</a>
 
-<li class="arw_small"><a href="/open-college/teaching-certificate/index.html">教員免許状更新講習</a></li>
+<li class="arw_small"><a href="/open-college/teaching-certificate/index.html">教員免許状更新講習</a>
 
-<li class="arw_small"><a href="/open-college/cooperation/index.html">高大連携</a></li>
+<li class="arw_small"><a href="/open-college/cooperation/index.html">高大連携</a>
 </ul>
 </div>
 
-</li>
+
 
 </ul>
 </div><!-- / hd -->
@@ -457,8 +457,8 @@ var $1_12_4 = $.noConflict();
 
 
 <ul class="location clearfix link_red_location_location_location">
-<li><a href="/index.html">HOME</a></li>
-<li>受験生の方へ</li>
+<li><a href="/index.html">HOME</a>
+<li>受験生の方へ
 </ul>
 
 <div id="ct_area" class="clearfix">
@@ -481,13 +481,13 @@ var $1_12_4 = $.noConflict();
 <ul class="anchor_list" id="js-anchor_list">
 <ul>
     <li><a href="#admission" id="anchor_admission"><span><span>入試･入学<br />
-    情報</span></span></a></li>
+    情報</span></span></a>
     <li><a href="#learning" id="anchor_learning"><span><span>津田塾の<br />
-    学び</span></span></a></li>
+    学び</span></span></a>
     <li><a href="#career" id="anchor_career"><span><span>キャリア<br />
-    就職</span></span></a></li>
+    就職</span></span></a>
     <li><a href="#campus" id="anchor_campus"><span><span>キャンパス<br />
-    ライフ</span></span></a></li>
+    ライフ</span></span></a>
 </ul>
 </ul>
 <p class="link"><a href="/admission/request/index.html"><span>資料･願書<br />請求</span></a></p>
@@ -685,25 +685,25 @@ var $1_12_4 = $.noConflict();
 <span class="text">英文学科</span><span class="circle"></span>
 <img src="/hak1k3000000gw81/hak1k3000000gw8i.png" alt="" width="302" height="302" />
 </a>
-</li>
+
 <li>
 <a href="/faculty/dept-inti/index.html">
 <span class="text">国際<br />関係学科</span><span class="circle"></span>
 <img src="/hak1k3000000gw81/hak1k3000000gw8k.png" alt="" width="302" height="302" />
 </a>
-</li>
+
 <li>
 <a href="/faculty/dept-math/index.html">
 <span class="text">数学科</span><span class="circle"></span>
 <img src="/hak1k3000000gw81/hak1k3000000gw8m.png" alt="" width="302" height="302" />
 </a>
-</li>
+
 <li>
 <a href="/faculty/dept-cs/index.html">
 <span class="text">情報科学科</span><span class="circle"></span>
 <img src="/hak1k3000000gw81/hak1k3000000gw8o.png" alt="" width="302" height="302" />
 </a>
-</li>
+
 </ul>
 </div>
 <div class="policy">
@@ -714,7 +714,7 @@ var $1_12_4 = $.noConflict();
 <span class="text">総合<br />政策学科</span><span class="circle"></span>
 <img src="/hak1k3000000gw81/hak1k3000000gw8q.png" alt="" width="302" height="302" />
 </a>
-</li>
+
 </ul>
 </div>
 <div class="btn_area">
@@ -727,13 +727,13 @@ var $1_12_4 = $.noConflict();
 <h3 class="sub_section_hdg"><span>注目ワード</span></h3>
 <ul class="word_list">
 
-<li><a href="/education/english/index.html"><span class="cell"><span class="text">英語教育</span></span></a><span class="bg" style="background-image: url(/prospect/hak1k3000000gxks-img/keyword1.jpg);"></span></li>
+<li><a href="/education/english/index.html"><span class="cell"><span class="text">英語教育</span></span></a><span class="bg" style="background-image: url(/prospect/hak1k3000000gxks-img/keyword1.jpg);"></span>
 
-<li><a href="/education/small/index.html"><span class="cell"><span class="text">少人数教育</span></span></a><span class="bg" style="background-image: url(/prospect/hak1k3000000gxks-img/keyword2.jpg);"></span></li>
+<li><a href="/education/small/index.html"><span class="cell"><span class="text">少人数教育</span></span></a><span class="bg" style="background-image: url(/prospect/hak1k3000000gxks-img/keyword2.jpg);"></span>
 
-<li><a href="http://offcampus.tsuda.ac.jp/"><span class="cell"><span class="text">学外学修</span></span></a><span class="bg" style="background-image: url(/prospect/hak1k3000000gxks-img/keyword3.jpg);"></span></li>
+<li><a href="http://offcampus.tsuda.ac.jp/"><span class="cell"><span class="text">学外学修</span></span></a><span class="bg" style="background-image: url(/prospect/hak1k3000000gxks-img/keyword3.jpg);"></span>
 
-<li><a href="/education/cie/index.html"><span class="cell"><span class="text">留学</span></span></a><span class="bg" style="background-image: url(/prospect/hak1k3000000gxks-img/keyword4.jpg);"></span></li>
+<li><a href="/education/cie/index.html"><span class="cell"><span class="text">留学</span></span></a><span class="bg" style="background-image: url(/prospect/hak1k3000000gxks-img/keyword4.jpg);"></span>
 
 </ul>
 </div>
@@ -812,26 +812,26 @@ var $1_12_4 = $.noConflict();
 <div class="section_inner">
 <ul class="bg_list" id="js-bg_list">
 <?php foreach(REDSPICE_CAMPUS_LIFE_VISUAL_TYPE_LIST as $value): ?>
-<li style="background-image: url(<?php echo redspice_get_custom_image_url(REDSPICE_CAMPUS_LIFE_VISUAL_URL . '_' . $value, "/prospect/hak1k3000000gxks-img/image{$value}.jpg") ?>);"></li>
+<li style="background-image: url(<?php echo redspice_get_custom_image_url(REDSPICE_CAMPUS_LIFE_VISUAL_URL . '_' . $value, "/prospect/hak1k3000000gxks-img/image{$value}.jpg") ?>);">
 <?php endforeach ?>
 </ul>
 <div class="container">
 <h2 class="section_hdg"><span lang="en">CAMPUS</span><span lang="ja">キャンパスライフ</span></h2>
 <ul class="link_list">
 
-<li><a href="/campus-life/calendar/index.html">学年暦</a></li>
+<li><a href="/campus-life/calendar/index.html">学年暦</a>
 
-<li><a href="/campus-life/tuition/index.html">入学金・学費</a></li>
+<li><a href="/campus-life/tuition/index.html">入学金・学費</a>
 
-<li><a href="/campus-life/scholarship/index.html">奨学金</a></li>
+<li><a href="/campus-life/scholarship/index.html">奨学金</a>
 
-<li><a href="/campus-life/circle/index.html">サークル紹介</a></li>
+<li><a href="/campus-life/circle/index.html">サークル紹介</a>
 
-<li><a href="/campus-life/support/index.html">学生生活サポート</a></li>
+<li><a href="/campus-life/support/index.html">学生生活サポート</a>
 
-<li><a href="/campus-life/shop/index.html">食堂・売店</a></li>
+<li><a href="/campus-life/shop/index.html">食堂・売店</a>
 
-<li><a href="/campus-life/dormitory.html">学生寮</a></li>
+<li><a href="/campus-life/dormitory.html">学生寮</a>
 
 </ul>
 <div class="plum_link">
@@ -865,26 +865,26 @@ var $1_12_4 = $.noConflict();
 
 <ul>
 
-<li><a href="/about/tsuda/index.html">津田塾大学</a></li>
+<li><a href="/about/tsuda/index.html">津田塾大学</a>
 
-<li><a href="/about/history/index.html">津田塾の歴史</a></li>
+<li><a href="/about/history/index.html">津田塾の歴史</a>
 
-<li><a href="/about/outline/index.html">大学概要</a></li>
+<li><a href="/about/outline/index.html">大学概要</a>
 
-<li><a href="/about/disclosure/index.html">情報公表</a></li>
+<li><a href="/about/disclosure/index.html">情報公表</a>
 
-<li><a href="/about/access/index.html">交通アクセス</a></li>
+<li><a href="/about/access/index.html">交通アクセス</a>
 
-<li><a href="/about/campus-guide.html">キャンパスガイド（施設紹介）</a></li>
+<li><a href="/about/campus-guide.html">キャンパスガイド（施設紹介）</a>
 
-<li><a href="/about/photo/index.html">フォトアルバム</a></li>
+<li><a href="/about/photo/index.html">フォトアルバム</a>
 
-<li><a href="/about/contribution/index.html">津田塾大学への寄付について</a></li>
+<li><a href="/about/contribution/index.html">津田塾大学への寄付について</a>
 
-<li><a href="/about/sns/index.html">SNS公式アカウント</a></li>
+<li><a href="/about/sns/index.html">SNS公式アカウント</a>
 
 </ul>
-</li>
+
 </ul>
 
 <ul>
@@ -892,24 +892,24 @@ var $1_12_4 = $.noConflict();
 
 <ul>
 
-<li><a href="/education/english/index.html">英語教育</a></li>
+<li><a href="/education/english/index.html">英語教育</a>
 
-<li><a href="/education/second/index.html">第二外国語</a></li>
+<li><a href="/education/second/index.html">第二外国語</a>
 
-<li><a href="/education/small/index.html">少人数教育</a></li>
+<li><a href="/education/small/index.html">少人数教育</a>
 
-<li><a href="/education/cie/index.html">留学(国際センター)</a></li>
+<li><a href="/education/cie/index.html">留学(国際センター)</a>
 
-<li><a href="/education/teacher/index.html">教職課程</a></li>
+<li><a href="/education/teacher/index.html">教職課程</a>
 
-<li><a href="/education/credit-transfer/index.html">単位互換</a></li>
+<li><a href="/education/credit-transfer/index.html">単位互換</a>
 
-<li><a href="http://lib.tsuda.ac.jp/?contents_id=JBlMmxEsPzeN" target="_blank">図書館・AVライブラリー<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li><a href="http://lib.tsuda.ac.jp/?contents_id=JBlMmxEsPzeN" target="_blank">図書館・AVライブラリー<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://offcampus.tsuda.ac.jp/" target="_blank">学外学修センター<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li><a href="http://offcampus.tsuda.ac.jp/" target="_blank">学外学修センター<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
 </ul>
-</li>
+
 </ul>
 
 <ul>
@@ -917,28 +917,28 @@ var $1_12_4 = $.noConflict();
 
 <ul>
 
-<li><a href="/faculty/cu-policy/index.html">教育課程編成方針（カリキュラム・ポリシー）</a></li>
+<li><a href="/faculty/cu-policy/index.html">教育課程編成方針（カリキュラム・ポリシー）</a>
 
-<li><a href="/faculty/dept-eng/index.html">英文学科</a></li>
+<li><a href="/faculty/dept-eng/index.html">英文学科</a>
 
-<li><a href="/faculty/dept-inti/index.html">国際関係学科</a></li>
+<li><a href="/faculty/dept-inti/index.html">国際関係学科</a>
 
-<li><a href="/faculty/dept-math/index.html">数学科</a></li>
+<li><a href="/faculty/dept-math/index.html">数学科</a>
 
-<li><a href="/faculty/dept-cs/index.html">情報科学科</a></li>
+<li><a href="/faculty/dept-cs/index.html">情報科学科</a>
 
-<li><a href="/faculty/dept-ps/index.html">総合政策学科（2017年4月新設）</a></li>
+<li><a href="/faculty/dept-ps/index.html">総合政策学科（2017年4月新設）</a>
 
-<li><a href="/faculty/dept-mi/index.html">多文化・国際協力コース</a></li>
+<li><a href="/faculty/dept-mi/index.html">多文化・国際協力コース</a>
 
-<li><a href="/faculty/dept-ms/index.html">メディアスタディーズ・コース</a></li>
+<li><a href="/faculty/dept-ms/index.html">メディアスタディーズ・コース</a>
 
-<li><a href="/faculty/dip-policy/index.html">学位授与方針（ディプロマ・ポリシー）</a></li>
+<li><a href="/faculty/dip-policy/index.html">学位授与方針（ディプロマ・ポリシー）</a>
 
-<li><a href="/faculty/work/index.html">教職員著作・制作物</a></li>
+<li><a href="/faculty/work/index.html">教職員著作・制作物</a>
 
 </ul>
-</li>
+
 </ul>
 
 <ul>
@@ -946,30 +946,30 @@ var $1_12_4 = $.noConflict();
 
 <ul>
 
-<li><a href="/admission/ad-policy/faculty/index.html">学部の入学者受入方針（アドミッション・ポリシー）</a></li>
+<li><a href="/admission/ad-policy/faculty/index.html">学部の入学者受入方針（アドミッション・ポリシー）</a>
 
-<li><a href="/admission/faculty/index.html">入試情報（学部）</a></li>
+<li><a href="/admission/faculty/index.html">入試情報（学部）</a>
 
-<li><a href="/admission/fc-data/index.html">入学試験データ（学部）</a></li>
+<li><a href="/admission/fc-data/index.html">入学試験データ（学部）</a>
 
-<li><a href="/admission/ad-policy/grad-school/index.html">大学院の入学者受入方針（アドミッション・ポリシー）</a></li>
+<li><a href="/admission/ad-policy/grad-school/index.html">大学院の入学者受入方針（アドミッション・ポリシー）</a>
 
-<li><a href="/admission/grad-school/index.html">入試情報（大学院）</a></li>
+<li><a href="/admission/grad-school/index.html">入試情報（大学院）</a>
 
-<li><a href="/admission/gs-data/index.html">入学試験データ（大学院）</a></li>
+<li><a href="/admission/gs-data/index.html">入学試験データ（大学院）</a>
 
-<li><a href="/admission/exam_fee/index.html">入学検定料</a></li>
+<li><a href="/admission/exam_fee/index.html">入学検定料</a>
 
-<li><a href="/campus-life/scholarship/tsudaspiritscholarship.html">＜津田スピリット＞奨学金（給付・予約型）</a></li>
+<li><a href="/campus-life/scholarship/tsudaspiritscholarship.html">＜津田スピリット＞奨学金（給付・予約型）</a>
 
-<li><a href="/admission/request/index.html">資料・願書請求</a></li>
+<li><a href="/admission/request/index.html">資料・願書請求</a>
 
-<li><a href="/admission/demonstration.html">授業体験day@津田塾</a></li>
+<li><a href="/admission/demonstration.html">授業体験day@津田塾</a>
 
-<li><a href="/admission/open-campus/index.html">オープンキャンパス</a></li>
+<li><a href="/admission/open-campus/index.html">オープンキャンパス</a>
 
 </ul>
-</li>
+
 </ul>
 
 <ul>
@@ -977,20 +977,20 @@ var $1_12_4 = $.noConflict();
 
 <ul>
 
-<li><a href="/campus-life/calendar/index.html">学年暦</a></li>
+<li><a href="/campus-life/calendar/index.html">学年暦</a>
 
-<li><a href="/campus-life/tuition/index.html">入学金・学費</a></li>
+<li><a href="/campus-life/tuition/index.html">入学金・学費</a>
 
-<li><a href="/campus-life/scholarship/index.html">奨学金</a></li>
+<li><a href="/campus-life/scholarship/index.html">奨学金</a>
 
-<li><a href="/campus-life/support/index.html">学生生活サポート</a></li>
+<li><a href="/campus-life/support/index.html">学生生活サポート</a>
 
-<li><a href="/campus-life/certificate/index.html">各種証明書</a></li>
+<li><a href="/campus-life/certificate/index.html">各種証明書</a>
 
-<li><a href="/campus-life/system/index.html">各種システム</a></li>
+<li><a href="/campus-life/system/index.html">各種システム</a>
 
 </ul>
-</li>
+
 </ul>
 
 <ul>
@@ -998,18 +998,18 @@ var $1_12_4 = $.noConflict();
 
 <ul>
 
-<li><a href="/career/feature/index.html">進路の特徴</a></li>
+<li><a href="/career/feature/index.html">進路の特徴</a>
 
-<li><a href="/career/support/index.html">進路サポート体制</a></li>
+<li><a href="/career/support/index.html">進路サポート体制</a>
 
-<li><a href="/career/employment/index.html">主な就職先</a></li>
+<li><a href="/career/employment/index.html">主な就職先</a>
 
-<li><a href="/career/grad-school/index.html">主な進学先</a></li>
+<li><a href="/career/grad-school/index.html">主な進学先</a>
 
-<li><a href="/career/recruit/index.html">求人について</a></li>
+<li><a href="/career/recruit/index.html">求人について</a>
 
 </ul>
-</li>
+
 </ul>
 
 <ul>
@@ -1017,26 +1017,26 @@ var $1_12_4 = $.noConflict();
 
 <ul>
 
-<li><a href="/grad-school/cu-policy/index.html">大学院の教育課程編成方針（カリキュラム・ポリシー）</a></li>
+<li><a href="/grad-school/cu-policy/index.html">大学院の教育課程編成方針（カリキュラム・ポリシー）</a>
 
-<li><a href="/grad-school/esc/index.html">文学研究科</a></li>
+<li><a href="/grad-school/esc/index.html">文学研究科</a>
 
-<li><a href="/grad-school/inti/index.html">国際関係学研究科</a></li>
+<li><a href="/grad-school/inti/index.html">国際関係学研究科</a>
 
-<li><a href="/grad-school/sci/index.html">理学研究科</a></li>
+<li><a href="/grad-school/sci/index.html">理学研究科</a>
 
-<li><a href="/grad-school/ist-lang/index.html">言語文化研究所</a></li>
+<li><a href="/grad-school/ist-lang/index.html">言語文化研究所</a>
 
-<li><a href="/grad-school/ist-intil/index.html">国際関係研究所</a></li>
+<li><a href="/grad-school/ist-intil/index.html">国際関係研究所</a>
 
-<li><a href="/grad-school/ist-math/index.html">数学・計算機科学研究所</a></li>
+<li><a href="/grad-school/ist-math/index.html">数学・計算機科学研究所</a>
 
-<li><a href="/grad-school/ist-policy/index.html"> 総合政策研究所</a></li>
+<li><a href="/grad-school/ist-policy/index.html"> 総合政策研究所</a>
 
-<li><a href="/grad-school/dip-policy/index.html">大学院の学位授与方針（ディプロマ・ポリシー）</a></li>
+<li><a href="/grad-school/dip-policy/index.html">大学院の学位授与方針（ディプロマ・ポリシー）</a>
 
 </ul>
-</li>
+
 </ul>
 
 <ul>
@@ -1044,30 +1044,30 @@ var $1_12_4 = $.noConflict();
 
 <ul>
 
-<li><a href="/open-college/synthesis/index.html">公開講座「総合」</a></li>
+<li><a href="/open-college/synthesis/index.html">公開講座「総合」</a>
 
-<li><a href="/open-college/woman/index.html">公開講座「女性学」</a></li>
+<li><a href="/open-college/woman/index.html">公開講座「女性学」</a>
 
-<li><a href="/open-college/policy-studies/index.html">公開講座 「社会実践の諸相」</a></li>
+<li><a href="/open-college/policy-studies/index.html">公開講座 「社会実践の諸相」</a>
 
-<li><a href="/open-college/media/index.html">メディアワークショップ講演会</a></li>
+<li><a href="/open-college/media/index.html">メディアワークショップ講演会</a>
 
-<li><a href="/open-college/wellness/index.html">ウェルネス・センター公開講座</a></li>
+<li><a href="/open-college/wellness/index.html">ウェルネス・センター公開講座</a>
 
-<li><a href="/open-college/essay/index.html">2017年度 第18回 高校生エッセー・コンテスト</a></li>
+<li><a href="/open-college/essay/index.html">2017年度 第18回 高校生エッセー・コンテスト</a>
 
-<li><a href="/open-college/umeko-award/index.html">津田梅子賞</a></li>
+<li><a href="/open-college/umeko-award/index.html">津田梅子賞</a>
 
-<li><a href="http://tou.tsuda.ac.jp/" target="_blank">津田塾大学オープンユニバーシティ<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li><a href="http://tou.tsuda.ac.jp/" target="_blank">津田塾大学オープンユニバーシティ<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://koryukan.tsuda.ac.jp/?contents_id=jRbNU7afTtY9" target="_blank">津田梅子記念交流館<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li><a href="http://koryukan.tsuda.ac.jp/?contents_id=jRbNU7afTtY9" target="_blank">津田梅子記念交流館<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://twc.tsuda.ac.jp/event/index.html" target="_blank">ライティングセンター講演会<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li><a href="http://twc.tsuda.ac.jp/event/index.html" target="_blank">ライティングセンター講演会<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://lib.tsuda.ac.jp/DigitalArchive/exhibition.html?contents_id=YybOk3dWJJjv" target="_blank">津田梅子資料室企画展<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a></li>
+<li><a href="http://lib.tsuda.ac.jp/DigitalArchive/exhibition.html?contents_id=YybOk3dWJJjv" target="_blank">津田梅子資料室企画展<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
 </ul>
-</li>
+
 </ul>
 
 </div><!-- / .ft_nav -->
@@ -1076,11 +1076,11 @@ var $1_12_4 = $.noConflict();
 <div class="inner clearfix">
 <ul>
 
-<li><a href="/employment.html">採用情報</a></li>
+<li><a href="/employment.html">採用情報</a>
 
-<li><a href="/privacypolicy.html">個人情報保護方針</a></li>
+<li><a href="/privacypolicy.html">個人情報保護方針</a>
 
-<li><a href="/sitepolicy/index.html">このサイトの利用について</a></li>
+<li><a href="/sitepolicy/index.html">このサイトの利用について</a>
 
 </ul>
 <p class="copy">Copyright(c) 2017 Tsuda University.  All rights reserved.</p>
@@ -1111,21 +1111,21 @@ var $1_12_4 = $.noConflict();
 <div id="ft_menu" class="accordion clearfix">
 <ul>
 
-<li><a href="/about/index.html">大学案内</a></li>
+<li><a href="/about/index.html">大学案内</a>
 
-<li><a href="/education/index.html">教育の特色</a></li>
+<li><a href="/education/index.html">教育の特色</a>
 
-<li><a href="/faculty/index.html">学科・コース</a></li>
+<li><a href="/faculty/index.html">学科・コース</a>
 
-<li><a href="/admission/index.html">入試・入学情報</a></li>
+<li><a href="/admission/index.html">入試・入学情報</a>
 
-<li><a href="/campus-life/index.html">キャンパスライフ</a></li>
+<li><a href="/campus-life/index.html">キャンパスライフ</a>
 
-<li><a href="/career/index.html">進路・就職</a></li>
+<li><a href="/career/index.html">進路・就職</a>
 
-<li><a href="/grad-school/index.html">大学院・研究所</a></li>
+<li><a href="/grad-school/index.html">大学院・研究所</a>
 
-<li><a href="/open-college/index.html">開かれた大学</a></li>
+<li><a href="/open-college/index.html">開かれた大学</a>
 
 </ul>
 </div><!-- / .ft_menu -->
@@ -1133,15 +1133,14 @@ var $1_12_4 = $.noConflict();
 <div class="inner clearfix">
 <ul>
 
-<li><a href="/employment.html">採用情報</a></li>
+<li><a href="/employment.html">採用情報</a>
 
-<li><a href="/privacypolicy.html">個人情報保護方針</a></li>
+<li><a href="/privacypolicy.html">個人情報保護方針</a>
 
-<li><a href="/sitepolicy/index.html">このサイトの利用について</a></li>
+<li><a href="/sitepolicy/index.html">このサイトの利用について</a>
 
 </ul>
 <p class="copy">Copyright(c) 2017 Tsuda University.  All rights reserved.</p>
 </div>
 </div><!-- / .copy_box -->
 </div><!-- / #ft_sp -->
-<!--/body 前 -->
