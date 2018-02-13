@@ -70,6 +70,6 @@ add_action('wp_enqueue_scripts', function() {
     ];
     // JS読み込み
     foreach($assets as $key => $value) {
-        wp_enqueue_script("cmsp-script{$key}", get_template_directory_uri(). "/js/{$value[0]}", $value[1], $value[2], $value[3]);
+        wp_enqueue_script("cmsp-script{$key}", get_template_directory_uri(). '/js/'. $value[0], $value[1], $value[2], $value[3]);
     }
 }, 1);

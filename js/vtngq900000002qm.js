@@ -1,7 +1,7 @@
 /* ------------------------------------------------------------------
 
  common.js
-	
+
 ------------------------------------------------------------------ */
 
 
@@ -22,7 +22,7 @@ jQuery(function($){
 			$("body").removeClass("sp_index");
 			$("#main_img .main_bg1").css("height",400);
 			}
-		}); 
+		});
 });
 
 
@@ -49,7 +49,7 @@ jQuery(function($){
 				$(".guide_height").autoHeight({column:3, clear:1});
 				$("#ct_right .img_list ul li").autoHeight({column:2, clear:1});
 			}
-		}); 
+		});
 });
 
 
@@ -96,7 +96,7 @@ $(function($){
 /* ナビの高さをあわせる ------------------------------ */
 
 $(function(){
-	
+
 	$("#hd ul li").hover(function() {
 		setTimeout(function(){
 			$("#gnav1 .sub ul.large_link li").autoHeight({column:3, clear:1});
@@ -107,7 +107,7 @@ $(function(){
 			$("#gnav6 .sub ul.large_link li").autoHeight({column:3, clear:1});
 			$("#gnav7 .sub ul.large_link li").autoHeight({column:3, clear:1});
 			$("#gnav8 .sub ul.large_link li").autoHeight({column:3, clear:1});
-		
+
 			$("#gnav1 .sub ul.small_link li").autoHeight({column:3, clear:1});
 			$("#gnav2 .sub ul.small_link li").autoHeight({column:3, clear:1});
 			$("#gnav3 .sub ul.small_link li").autoHeight({column:3, clear:1});
@@ -176,14 +176,12 @@ this.randomtip = function(){
 
 $(function(){
 				randomtip();
-});
 
 
 //
 // フォームテキストエリア内
 //
 
-$(function(){
      $(".focus").focus(function(){
           if(this.value == "Search"){
                $(this).val("").css("color","#333333");
@@ -194,14 +192,11 @@ $(function(){
                $(this).val("Search").css("color","#cccccc");
           }
      });
-});
 
-$(function(){
 	$(window).load(function() {
 		$("div#hd .hd_other .gsc-search-box #gs_id1").removeAttr("style");
 		$(".gsc-input-box-hover input,.gsc-input-box-focs input").removeAttr("style");
 		$(".gsc-search-button input").removeAttr("type");
-});
 });
 
 
@@ -209,29 +204,25 @@ $(function(){
 //アコーディオン：閉じて開く PC
 //
 
-$(function(){
 	$(".sub").hide();
 	$(".gnav > li").hover(function(){
 		$(this).children(".sub").show();
+    echo.render();
 	},function(){
 		$(this).children(".sub").hide();
 	});
-});
 
 
 //
 //アコーディオン：閉じて開く SP
 //
 
-$(function(){
 $("#hd_menu").hide();
 $(".hd_nav_sp").click(function(){
 $("#hd_sp").find("#hd_menu").slideToggle();
 $("#hd_sp").find("#hd_search").slideUp();
 });
-});
 
-$(function(){
 $("#hd_search").hide();
 $("#hd_btn .search_area_sp").click(function(){
 $("#hd_sp").find("#hd_search").slideToggle();
@@ -241,18 +232,14 @@ $("#hd_search .btn_close").click(function(){
 $("#hd_sp").find("#hd_search").slideUp();
 $("#hd_sp").find("#hd_menu").slideUp();
 });
-});
 
 
-$(function(){
 $("#ft_menu").hide();
 $(".ft_nav_sp").click(function(){
 $("#ft_sp").find("#ft_menu").slideToggle();
 $("#ft_sp").find("#ft_search").slideUp();
 });
-});
 
-$(function(){
 $("#ft_search").hide();
 $("#ft_sp .search_area_sp").click(function(){
 $("#ft_sp").find("#ft_search").slideToggle();
@@ -262,7 +249,6 @@ $("#ft_sp .btn_close").click(function(){
 $("#ft_sp").find("#ft_search").slideUp();
 $("#ft_sp").find("#ft_menu").slideUp();
 });
-});
 
 
 
@@ -270,7 +256,6 @@ $("#ft_sp").find("#ft_menu").slideUp();
 //SmoothScroll
 //
 
-$(function(){
 // #で始まるアンカーをクリックした場合に処理
 $('a[href^=#]').click(function() {
 	// スクロールの速度
@@ -332,7 +317,7 @@ $(function(){
 			if(winW > 640){
 	  			var count = 32;
 			}else{
-				var count = 23;	
+				var count = 23;
 			}
 			$('.plumgarden_box .txt .ttl a').each(function(){
 				var target = $('span',this),
@@ -346,13 +331,11 @@ $(function(){
 			$('.plumgarden_box .txt .ttl').css("display", "block");
 		});
 	}
-});
 
 
 //
 //教員紹介　段落ち調整
 //
-$(function(){
 	$('.teacher_area').each(function(){
 			var linksnum = $(this).children('p').eq(2).css('clear','both');
 			/*if(linksnum > 2){

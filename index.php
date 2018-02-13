@@ -1,59 +1,32 @@
 <!DOCTYPE html>
 <meta charset="UTF-8">
 <title>受験生の方へ | 津田塾大学</title>
-<meta name="description" content="津田塾大学の受験生向け特設ページです。津田塾大学でなりたい自分を発見しよう！" />
-<meta name="keywords" content="津田塾大学,女子大学,受験,受験生,入試情報,入試,オープンキャンパス,イベント" />
 <meta name="viewport" content="width=device-width,user-scalable=yes" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.tsuda.ac.jp/prospect/jukensei.html" />
-<meta property="og:image" content="/prospect/hak1k3000000gxks-img/ogimage.jpg" />
-<meta property="og:site_name" content="津田塾大学" />
-<meta property="og:title" content="受験生の方へ" />
-<meta property="og:description" content="津田塾大学の受験生向け特設ページです。津田塾大学でなりたい自分を発見しよう！" />
 <?php /*  ADD 20180117 ogawa */ ?>
 <meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
 <link rel="dns-prefetch" href="//:sp.redbox.ne.jp">
 <link rel="preconnect" href="//:sp.redbox.ne.jp">
 <link rel="preconnect" href="//:sp.redbox.ne.jp" crossorigin>
 <?php /*  ADD 20180117 ogawa */ ?>
-<link rel="stylesheet" href="/css/vtngq900000002qh.css" media="all and (min-width: 641px)" />
-<link rel="stylesheet" href="/css/vtngq900000002qc.css" media="screen and (min-width: 0px) and (max-width: 640px)" />
-<link rel="stylesheet" href="/css/vtngq900000002q7.css" media="print" />
-<link rel="stylesheet" href="/css/prospect.css" />
+<link rel="stylesheet" href="<?php echo get_template_directory_uri()?>/css/vtngq900000002qh.min.css" media="all and (min-width: 641px)" />
+<link rel="stylesheet" href="<?php echo get_template_directory_uri()?>/css/vtngq900000002qc.min.css" media="screen and (min-width: 0px) and (max-width: 640px)" />
+<link rel="stylesheet" href="<?php echo get_template_directory_uri()?>/css/vtngq900000002q7.min.css" media="print" />
+<link rel="stylesheet" href="<?php echo get_template_directory_uri()?>/css/prospect.min.css" />
 
 <link rel="shortcut icon" href="/images/favicon.ico" />
-<script src="/js/vtngq900000002r1.js"></script>
-<script src="/js/vtngq900000002qw.js"></script>
-<script src="/js/vtngq900000002qr.js"></script>
-<script src="/js/vtngq900000002qm.js"></script>
-<script src="/js/vtngq900000002rb.js"></script>
-<script src="/js/vtngq900000002r6.js"></script>
-<script src="/js/jquery-1.12.4.min.js"></script>
-<script src="/js/vtngq900000002qw.js"></script>
-<script >
-var $1_12_4 = $.noConflict();
+<script src="<?php echo get_template_directory_uri() ?>/js/app.min.js"></script>
+<script>
+echo.init({
+  offset: 1000
+});
 </script>
-<script src="/js/prospect.js"></script>
 <?php /*
 <!-- /head 前 -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-20982355-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
 <?php */ ?>
 <body class="guide prospect">
 <div id="wrap">
-<noscript>当サイトでは一部のサービスで、JavaScriptを使用しているものがあります。ご利用の際には、ブラウザ側でJavaScriptの設定をオンにしていただきますよう、お願いいたします。</noscript>
+<noscript>当サイトでは一部のサービスで、JavaScriptを使用しているものがあります。ご利用の際には、ブラウザ側でJavaScriptの設定をオン
+にしていただきますよう、お願いいたします。</noscript>
 
 <div id="hd_sp" class="clearfix">
 <ul class="other_link_sp clearfix">
@@ -67,10 +40,10 @@ var $1_12_4 = $.noConflict();
 </ul>
 <div class="hd_ct clearfix">
 <div class="clearfix">
-<p class="logo"><a href="/index.html"><img src="/vtngq9000000009n-img/logo_sp.gif" width="223" height="94" alt="津田塾大学" /></a></p>
+<p class="logo"><a href="/index.html"><img data-echo="/vtngq9000000009n-img/logo_sp.gif" width="223" height="94" alt="津田塾大学" /></a></p>
 <div id="hd_btn" class="clearfix">
-<p class="search_area_sp"><a href="javascript:void(0)"><img src="/images/btn_search_sp.gif" width="148" height="54" alt="検索" /></a></p>
-<p class="hd_nav_sp"><a href="javascript:void(0)"><img src="/images/btn_nav_sp.gif" width="148" height="54" alt="メニュー" /></a></p>
+<p class="search_area_sp"><a href="javascript:void(0)"><img data-echo="/images/btn_search_sp.gif" width="148" height="54" alt="検索" /></a></p>
+<p class="hd_nav_sp"><a href="javascript:void(0)"><img data-echo="/images/btn_nav_sp.gif" width="148" height="54" alt="メニュー" /></a></p>
 </div>
 </div>
 
@@ -122,14 +95,14 @@ var $1_12_4 = $.noConflict();
 
 <div class="hd_ct clearfix">
 
-<p class="logo"><a href="/index.html"><img src="/vtngq9000000009n-img/logo_new.gif" width="390" height="41" alt="津田塾大学" /></a></p>
+<p class="logo"><a href="/index.html"><img data-echo="/vtngq9000000009n-img/logo_new.gif" width="390" height="41" alt="津田塾大学" /></a></p>
 <div class="hd_other">
 <div class="other_box clearfix">
 <ul id="font_change" class="font_size clearfix">
-<li class="size_text"><img src="/images/img_txt_size.gif" width="69" height="24" alt="文字サイズ" />
-<li id="font_s"><a href="javascript:void(0);"><img src="/images/txt_size1_ot.gif" width="25" height="24" alt="小" /></a>
-<li id="font_m"><a href="javascript:void(0);"><img src="/images/txt_size2_ot.gif" width="25" height="24" alt="中" /></a>
-<li id="font_l"><a href="javascript:void(0);"><img src="/images/txt_size3_ot.gif" width="25" height="24" alt="大" /></a>
+<li class="size_text"><img data-echo="/images/img_txt_size.gif" width="69" height="24" alt="文字サイズ" />
+<li id="font_s"><a href="javascript:void(0);"><img data-echo="/images/txt_size1_ot.gif" width="25" height="24" alt="小" /></a>
+<li id="font_m"><a href="javascript:void(0);"><img data-echo="/images/txt_size2_ot.gif" width="25" height="24" alt="中" /></a>
+<li id="font_l"><a href="javascript:void(0);"><img data-echo="/images/txt_size3_ot.gif" width="25" height="24" alt="大" /></a>
 </ul>
 
 
@@ -192,7 +165,7 @@ var $1_12_4 = $.noConflict();
 
 <li class="arw_small"><a href="/about/alumnae/index.html">津田塾大学同窓会</a>
 
-<li class="arw_small"><a href="http://pg.tsuda.ac.jp/" target="_blank">ウェブマガジン plum garden<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li class="arw_small"><a href="http://pg.tsuda.ac.jp/" target="_blank">ウェブマガジン plum garden<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 </ul>
 </div>
 
@@ -215,9 +188,9 @@ var $1_12_4 = $.noConflict();
 
 <li><a href="/education/credit-transfer/index.html">単位互換</a>
 
-<li><a href="http://lib.tsuda.ac.jp/?contents_id=JBlMmxEsPzeN" target="_blank">図書館・AVライブラリー<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li><a href="http://lib.tsuda.ac.jp/?contents_id=JBlMmxEsPzeN" target="_blank">図書館・AVライブラリー<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://offcampus.tsuda.ac.jp/" target="_blank">学外学修センター<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li><a href="http://offcampus.tsuda.ac.jp/" target="_blank">学外学修センター<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 </ul><ul class="small_link clearfix">
 <li class="arw_small"><a href="/education/common/index.html">共通科目</a>
 
@@ -233,9 +206,9 @@ var $1_12_4 = $.noConflict();
 
 <li class="arw_small"><a href="/education/cwr/index.html">女性研究者支援センター</a>
 
-<li class="arw_small"><a href="http://twc.tsuda.ac.jp/" target="_blank">ライティングセンター<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li class="arw_small"><a href="http://twc.tsuda.ac.jp/" target="_blank">ライティングセンター<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li class="arw_small"><a href="http://edu.tsuda.ac.jp/cmccl/" target="_blank">ソーシャル・メディア・センター<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li class="arw_small"><a href="http://edu.tsuda.ac.jp/cmccl/" target="_blank">ソーシャル・メディア・センター<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
 <li class="arw_small"><a href="/education/support/index.html">競争的資金採択プログラム</a>
 
@@ -270,7 +243,7 @@ var $1_12_4 = $.noConflict();
 
 <li><a href="/faculty/work/index.html">教職員著作・制作物</a>
 </ul><ul class="small_link clearfix">
-<li class="arw_small"><a href="https://tc-portal.tsuda.ac.jp/c4wsyl/SYLD200Init.do" target="_blank">シラバス<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li class="arw_small"><a href="https://tc-portal.tsuda.ac.jp/c4wsyl/SYLD200Init.do" target="_blank">シラバス<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
 <li class="arw_small"><a href="/faculty/grade/index.html">学習の評価について</a>
 
@@ -404,7 +377,7 @@ var $1_12_4 = $.noConflict();
 
 <li class="arw_small"><a href="/grad-school/course.html">修了(終了)者 進路状況</a>
 
-<li class="arw_small"><a href="/grad-school/credit-transfer/index.html" target="_blank">他大学院との単位互換<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li class="arw_small"><a href="/grad-school/credit-transfer/index.html" target="_blank">他大学院との単位互換<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 </ul>
 </div>
 
@@ -429,17 +402,17 @@ var $1_12_4 = $.noConflict();
 
 <li><a href="/open-college/umeko-award/index.html">津田梅子賞</a>
 
-<li><a href="http://tou.tsuda.ac.jp/" target="_blank">津田塾大学オープンユニバーシティ<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li><a href="http://tou.tsuda.ac.jp/" target="_blank">津田塾大学オープンユニバーシティ<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://koryukan.tsuda.ac.jp/?contents_id=jRbNU7afTtY9" target="_blank">津田梅子記念交流館<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li><a href="http://koryukan.tsuda.ac.jp/?contents_id=jRbNU7afTtY9" target="_blank">津田梅子記念交流館<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://twc.tsuda.ac.jp/event/index.html" target="_blank">ライティングセンター講演会<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li><a href="http://twc.tsuda.ac.jp/event/index.html" target="_blank">ライティングセンター講演会<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://lib.tsuda.ac.jp/DigitalArchive/exhibition.html?contents_id=YybOk3dWJJjv" target="_blank">津田梅子資料室企画展<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li><a href="http://lib.tsuda.ac.jp/DigitalArchive/exhibition.html?contents_id=YybOk3dWJJjv" target="_blank">津田梅子資料室企画展<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 </ul><ul class="small_link clearfix">
-<li class="arw_small"><a href="/open-college/afghanistan/index.html" target="_blank">アフガニスタン女性教員支援<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li class="arw_small"><a href="/open-college/afghanistan/index.html" target="_blank">アフガニスタン女性教員支援<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li class="arw_small"><a href="http://tac.lekumo.biz/tac/" target="_blank">TAC公開プログラム（TACニュース）<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li class="arw_small"><a href="http://tac.lekumo.biz/tac/" target="_blank">TAC公開プログラム（TACニュース）<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
 <li class="arw_small"><a href="/open-college/account/index.html">科目等履修生・聴講生の受付</a>
 
@@ -503,7 +476,7 @@ var $1_12_4 = $.noConflict();
 <div class="topics_slide" id="js-topics_slide">
 
 <div class="topics_item">
-<p class="image"><img src="/prospect/hak1k3000000gxks-img/hak1k3000000hclt.jpg" alt="" width="620" height="420" /></p>
+<p class="image"><img data-echo="/prospect/hak1k3000000gxks-img/hak1k3000000hclt.jpg" alt="" width="620" height="420" /></p>
 <div class="text_area">
 
 <p class="sub_title"> 全日程予約開始しました</p>
@@ -518,7 +491,7 @@ var $1_12_4 = $.noConflict();
 </div>
 
 <div class="topics_item">
-<p class="image"><img src="/prospect/hak1k3000000gxks-img/hak1k3000000i6ka.jpg" alt="" width="620" height="420" /></p>
+<p class="image"><img data-echo="/prospect/hak1k3000000gxks-img/hak1k3000000i6ka.jpg" alt="" width="620" height="420" /></p>
 <div class="text_area">
 
 <p class="sub_title">＜津田スピリット＞奨学金（給付・予約型）</p>
@@ -533,7 +506,7 @@ var $1_12_4 = $.noConflict();
 </div>
 
 <div class="topics_item">
-<p class="image"><img src="/prospect/hak1k3000000gxks-img/hak1k3000000h4c7.jpg" alt="" width="620" height="420" /></p>
+<p class="image"><img data-echo="/prospect/hak1k3000000gxks-img/hak1k3000000h4c7.jpg" alt="" width="620" height="420" /></p>
 <div class="text_area">
 
 <p class="sub_title">大学公式YouTubeに公開</p>
@@ -548,7 +521,7 @@ var $1_12_4 = $.noConflict();
 </div>
 
 <div class="topics_item">
-<p class="image"><img src="/prospect/hak1k3000000gxks-img/topics3.jpg" alt="TSUDA VISION 2030" width="620" height="420" /></p>
+<p class="image"><img data-echo="/prospect/hak1k3000000gxks-img/topics3.jpg" alt="TSUDA VISION 2030" width="620" height="420" /></p>
 <div class="text_area">
 
 <p class="sub_title">変革を担う、女性であること</p>
@@ -569,7 +542,7 @@ var $1_12_4 = $.noConflict();
 <div class="btn">
 <a href="http://kouhou.tsuda.ac.jp/strengths/" target="_blank">
 <b class="click"><span>CLICK!</span></b>
-<span class="image"><img src="/hak1k3000000gw81/hak1k3000000gw86.jpg" alt="データで見る 津田塾大学の強み" width="331" height="220" /></span>
+<span class="image"><img data-echo="/hak1k3000000gw81/hak1k3000000gw86.jpg" alt="データで見る 津田塾大学の強み" width="331" height="220" /></span>
 </a>
 
 
@@ -583,16 +556,16 @@ var $1_12_4 = $.noConflict();
 
 <dl>
 <dt>2017.11.15<br />
-<img src="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
+<img data-echo="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
 
 
-<dd><a href="/news/info/2017/JapanChampionship.html">本学大学院生が日本身体障がい者水泳選手権大会に出場します<img src="/images/ico_new.gif" width="30" height="13" alt="NEW" /></a>
+<dd><a href="/news/info/2017/JapanChampionship.html">本学大学院生が日本身体障がい者水泳選手権大会に出場します<img data-echo="/images/ico_new.gif" width="30" height="13" alt="NEW" /></a>
 
 </dl>
 
 <dl>
 <dt>2017.11.08<br />
-<img src="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
+<img data-echo="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
 
 
 <dd><a href="/employment.html">【教員採用】国際関係学科専任教員を募集しています／Call for Applications for Full-Time Faculty Member at Department of International and Cultural Studies</a>
@@ -601,7 +574,7 @@ var $1_12_4 = $.noConflict();
 
 <dl>
 <dt>2017.11.02<br />
-<img src="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
+<img data-echo="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
 
 
 <dd><a href="/news/info/2017/1102.html">本学卒業生がAward for Lifetime Service to the Association 第一号を受賞</a>
@@ -610,7 +583,7 @@ var $1_12_4 = $.noConflict();
 
 <dl>
 <dt>2017.11.01<br />
-<img src="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
+<img data-echo="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
 
 
 <dd><a href="/open-college/essay/20171008.html">2017年 第18回 エッセー・コンテスト結果発表</a>
@@ -619,7 +592,7 @@ var $1_12_4 = $.noConflict();
 
 <dl>
 <dt>2017.10.31<br />
-<img src="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
+<img data-echo="/images/txt_news1.gif" width="90" height="20" alt="お知らせ" />
 
 
 <dd><a href="/news/info/2017/171031.html">朝日新聞に5段広告を掲載しました</a>
@@ -683,25 +656,25 @@ var $1_12_4 = $.noConflict();
 <li>
 <a href="/faculty/dept-eng/index.html">
 <span class="text">英文学科</span><span class="circle"></span>
-<img src="/hak1k3000000gw81/hak1k3000000gw8i.png" alt="" width="302" height="302" />
+<img data-echo="/hak1k3000000gw81/hak1k3000000gw8i.png" alt="" width="302" height="302" />
 </a>
 
 <li>
 <a href="/faculty/dept-inti/index.html">
 <span class="text">国際<br />関係学科</span><span class="circle"></span>
-<img src="/hak1k3000000gw81/hak1k3000000gw8k.png" alt="" width="302" height="302" />
+<img data-echo="/hak1k3000000gw81/hak1k3000000gw8k.png" alt="" width="302" height="302" />
 </a>
 
 <li>
 <a href="/faculty/dept-math/index.html">
 <span class="text">数学科</span><span class="circle"></span>
-<img src="/hak1k3000000gw81/hak1k3000000gw8m.png" alt="" width="302" height="302" />
+<img data-echo="/hak1k3000000gw81/hak1k3000000gw8m.png" alt="" width="302" height="302" />
 </a>
 
 <li>
 <a href="/faculty/dept-cs/index.html">
 <span class="text">情報科学科</span><span class="circle"></span>
-<img src="/hak1k3000000gw81/hak1k3000000gw8o.png" alt="" width="302" height="302" />
+<img data-echo="/hak1k3000000gw81/hak1k3000000gw8o.png" alt="" width="302" height="302" />
 </a>
 
 </ul>
@@ -712,7 +685,7 @@ var $1_12_4 = $.noConflict();
 <li>
 <a href="/faculty/dept-ps/index.html">
 <span class="text">総合<br />政策学科</span><span class="circle"></span>
-<img src="/hak1k3000000gw81/hak1k3000000gw8q.png" alt="" width="302" height="302" />
+<img data-echo="/hak1k3000000gw81/hak1k3000000gw8q.png" alt="" width="302" height="302" />
 </a>
 
 </ul>
@@ -758,8 +731,8 @@ var $1_12_4 = $.noConflict();
 <h2 class="section_hdg"><span lang="en">CAREER</span><span lang="ja">キャリア・就職</span></h2>
 <div class="btn_area">
 <div class="upper">
-<div class="btn"><a href="/career/feature/index.html" class="link_btn"><span><span><img src="/hak1k3000000gw81/hak1k3000000gw88.png" alt="" width="90" height="106" />進路の特徴</span></span></a></div>
-<div class="btn"><a href="/career/support/index.html" class="link_btn"><span><span><img src="/hak1k3000000gw81/hak1k3000000gw8a.png" alt="" width="92" height="106" />進路サポート体制</span></span></a></div>
+<div class="btn"><a href="/career/feature/index.html" class="link_btn"><span><span><img data-echo="/hak1k3000000gw81/hak1k3000000gw88.png" alt="" width="90" height="106" />進路の特徴</span></span></a></div>
+<div class="btn"><a href="/career/support/index.html" class="link_btn"><span><span><img data-echo="/hak1k3000000gw81/hak1k3000000gw8a.png" alt="" width="92" height="106" />進路サポート体制</span></span></a></div>
 <div class="balloon support">
 <div class="row">
 
@@ -776,8 +749,8 @@ var $1_12_4 = $.noConflict();
 </div>
 </div>
 <div class="lower">
-<div class="btn"><a href="/career/employment/index.html" class="link_btn"><span><span><img src="/hak1k3000000gw81/hak1k3000000gw8c.png" alt="" width="84" height="106" />就職先</span></span></a></div>
-<div class="btn"><a href="/career/grad-school/index.html" class="link_btn"><span><span><img src="/hak1k3000000gw81/hak1k3000000gw8e.png" alt="" width="96" height="106" />進学先</span></span></a></div>
+<div class="btn"><a href="/career/employment/index.html" class="link_btn"><span><span><img data-echo="/hak1k3000000gw81/hak1k3000000gw8c.png" alt="" width="84" height="106" />就職先</span></span></a></div>
+<div class="btn"><a href="/career/grad-school/index.html" class="link_btn"><span><span><img data-echo="/hak1k3000000gw81/hak1k3000000gw8e.png" alt="" width="96" height="106" />進学先</span></span></a></div>
 <div class="balloon job">
 <div class="row">
 
@@ -842,7 +815,7 @@ var $1_12_4 = $.noConflict();
 <div class="btn">
 <a href="http://pg.tsuda.ac.jp/" target="_blank">
 <b class="click"><span>CLICK!</span></b>
-<span class="image"><img src="/hak1k3000000gw81/hak1k3000000gw8g.png" alt="キャンパスと世界のいまを伝える plum garden" width="400" height="100" /></span>
+<span class="image"><img data-echo="/hak1k3000000gw81/hak1k3000000gw8g.png" alt="キャンパスと世界のいまを伝える plum garden" width="400" height="100" /></span>
 </a>
 </div>
 </div>
@@ -904,9 +877,9 @@ var $1_12_4 = $.noConflict();
 
 <li><a href="/education/credit-transfer/index.html">単位互換</a>
 
-<li><a href="http://lib.tsuda.ac.jp/?contents_id=JBlMmxEsPzeN" target="_blank">図書館・AVライブラリー<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li><a href="http://lib.tsuda.ac.jp/?contents_id=JBlMmxEsPzeN" target="_blank">図書館・AVライブラリー<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://offcampus.tsuda.ac.jp/" target="_blank">学外学修センター<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li><a href="http://offcampus.tsuda.ac.jp/" target="_blank">学外学修センター<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
 </ul>
 
@@ -1058,13 +1031,13 @@ var $1_12_4 = $.noConflict();
 
 <li><a href="/open-college/umeko-award/index.html">津田梅子賞</a>
 
-<li><a href="http://tou.tsuda.ac.jp/" target="_blank">津田塾大学オープンユニバーシティ<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li><a href="http://tou.tsuda.ac.jp/" target="_blank">津田塾大学オープンユニバーシティ<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://koryukan.tsuda.ac.jp/?contents_id=jRbNU7afTtY9" target="_blank">津田梅子記念交流館<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li><a href="http://koryukan.tsuda.ac.jp/?contents_id=jRbNU7afTtY9" target="_blank">津田梅子記念交流館<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://twc.tsuda.ac.jp/event/index.html" target="_blank">ライティングセンター講演会<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li><a href="http://twc.tsuda.ac.jp/event/index.html" target="_blank">ライティングセンター講演会<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
-<li><a href="http://lib.tsuda.ac.jp/DigitalArchive/exhibition.html?contents_id=YybOk3dWJJjv" target="_blank">津田梅子資料室企画展<img src="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
+<li><a href="http://lib.tsuda.ac.jp/DigitalArchive/exhibition.html?contents_id=YybOk3dWJJjv" target="_blank">津田梅子資料室企画展<img data-echo="/images/ico_blank.gif" width="14" height="12" alt="外部リンク" /></a>
 
 </ul>
 
@@ -1092,8 +1065,8 @@ var $1_12_4 = $.noConflict();
 <div id="ft_sp">
 <div class="clearfix">
 <div id="ft_btn" class="clearfix">
-<p class="search_area_sp"><a href="javascript:void(0)"><img src="/images/btn_search_sp.gif" width="148" height="54" alt="検索" /></a></p>
-<p class="ft_nav_sp"><a href="javascript:void(0)"><img src="/images/btn_nav_sp.gif" width="148" height="54" alt="メニュー" /></a></p>
+<p class="search_area_sp"><a href="javascript:void(0)"><img data-echo="/images/btn_search_sp.gif" width="148" height="54" alt="検索" /></a></p>
+<p class="ft_nav_sp"><a href="javascript:void(0)"><img data-echo="/images/btn_nav_sp.gif" width="148" height="54" alt="メニュー" /></a></p>
 </div>
 </div>
 
