@@ -38,9 +38,52 @@ add_action( 'customize_register', function( $wp_customize ) {
     }
 } );
 
-function redspice_get_custom_image_url( $id , $default_path = null ) {
+function redspice_get_custom_image_url( $id , $size = 'medium', $default_path = null ) {
     $path = esc_url( get_theme_mod( $id ) );
-    return empty($path) ? $default_path : $path;
+    $image_id = redspice_get_image_id($path);
+    $image_thumb = wp_get_attachment_image_src($image_id, redspice_size_detection());
+    return empty($image_thumb[0]) ? $default_path : $image_thumb[0];
+}
+function redspice_get_image_id($image_url) {
+    global $wpdb;
+    $attachment = $wpdb->get_col($wpdb->prepare("SELECT ID FROM $wpdb->posts WHERE guid='%s';", $image_url ));
+    return $attachment[0];
+}
+function redspice_size_detection() {
+  $size = 'large'; // tablet
+  if(redspice_is_iphone()) {// iphone
+    $size = 'large';
+  } elseif(redspice_is_mobile()) { // mobile
+    $size = 'large';
+  } elseif(!wp_is_mobile()) { // PC
+    $size = 'original';
+  }
+  return $size;
+}
+function redspice_is_iphone() {
+    return (bool) strpos($_SERVER['HTTP_USER_AGENT'],'iPhone');
+}
+//スマートフォンを判別
+function redspice_is_mobile(){
+    $useragents = array(
+        'iPhone', // iPhone
+        'iPod', // iPod touch
+        'Android.*Mobile', // 1.5+ Android *** Only mobile
+        'Windows.*Phone', // *** Windows Phone
+        'dream', // Pre 1.5 Android
+        'CUPCAKE', // 1.5+ Android
+        'blackberry9500', // Storm
+        'blackberry9530', // Storm
+        'blackberry9520', // Storm v2
+        'blackberry9550', // Storm v2
+        'blackberry9800', // Torch
+        'webOS', // Palm Pre Experimental
+        'incognito', // Other iPhone browser
+        'webmate' // Other iPhone browser
+
+    );
+    $pattern = '/'.implode('|', $useragents).'/i';
+    return preg_match($pattern, $_SERVER['HTTP_USER_AGENT']);
 }
 // スタイルの省略可能属性を削除
 add_filter('style_loader_tag', function($src) {
@@ -73,3 +116,4 @@ add_action('wp_enqueue_scripts', function() {
         wp_enqueue_script("cmsp-script{$key}", get_template_directory_uri(). '/js/'. $value[0], $value[1], $value[2], $value[3]);
     }
 }, 1);
+

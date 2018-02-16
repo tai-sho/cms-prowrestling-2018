@@ -4,9 +4,9 @@
 <meta name="viewport" content="width=device-width,user-scalable=yes" />
 <?php /*  ADD 20180117 ogawa */ ?>
 <meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
-<link rel="dns-prefetch" href="//:sp.redbox.ne.jp">
-<link rel="preconnect" href="//:sp.redbox.ne.jp">
-<link rel="preconnect" href="//:sp.redbox.ne.jp" crossorigin>
+<link rel="dns-prefetch" href="//sp.redbox.ne.jp">
+<link rel="preconnect" href="//sp.redbox.ne.jp">
+<link rel="preconnect" href="//sp.redbox.ne.jp" crossorigin>
 <?php /*  ADD 20180117 ogawa */ ?>
 <link rel="stylesheet" href="<?php echo get_template_directory_uri()?>/css/vtngq900000002qh.min.css" media="all and (min-width: 641px)" />
 <link rel="stylesheet" href="<?php echo get_template_directory_uri()?>/css/vtngq900000002qc.min.css" media="screen and (min-width: 0px) and (max-width: 640px)" />
@@ -437,7 +437,7 @@ echo.init({
 <div id="ct_area" class="clearfix">
 
 
-<div class="section mv" id="js-mv" style="background-image: url(<?php echo redspice_get_custom_image_url( REDSPICE_MAIN_VISUAL_URL, '/prospect/hak1k3000000gxks-img/main1.jpg' ) ?>);" data-bg-sp="<?php echo redspice_get_custom_image_url( REDSPICE_MAIN_VISUAL_SP_URL, '/prospect/hak1k3000000gxks-img/mainsp.jpg' ) ?>">
+<div class="section mv" id="js-mv" style="background-image: url(<?php echo redspice_get_custom_image_url( REDSPICE_MAIN_VISUAL_URL, null, '/prospect/hak1k3000000gxks-img/main1.jpg' ) ?>);" data-bg-sp="<?php echo redspice_get_custom_image_url( REDSPICE_MAIN_VISUAL_SP_URL, null, '/prospect/hak1k3000000gxks-img/mainsp.jpg' ) ?>">
 <div class="section_inner">
 <h1 class="copy">
 <a href="/about/index.html">
@@ -785,7 +785,7 @@ echo.init({
 <div class="section_inner">
 <ul class="bg_list" id="js-bg_list">
 <?php foreach(REDSPICE_CAMPUS_LIFE_VISUAL_TYPE_LIST as $value): ?>
-<li style="background-image: url(<?php echo redspice_get_custom_image_url(REDSPICE_CAMPUS_LIFE_VISUAL_URL . '_' . $value, "/prospect/hak1k3000000gxks-img/image{$value}.jpg") ?>);">
+<li style="background-image: url(<?php echo redspice_get_custom_image_url(REDSPICE_CAMPUS_LIFE_VISUAL_URL . '_' . $value, null, "/prospect/hak1k3000000gxks-img/image{$value}.jpg") ?>);">
 <?php endforeach ?>
 </ul>
 <div class="container">
